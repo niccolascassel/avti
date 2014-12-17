@@ -1,0 +1,16 @@
+[submodule "Altos do Floresta"]
+	path = Altos do Floresta
+	url = git@github.com:niccolascassel/altosdofloresta.git
+	branch = master
+[submodule "Jardim do Sol"]
+	path = Jardim do Sol
+	url = git@github.com:niccolascassel/jardimdosol.git
+	branch = master
+[submodule "Morada das Rosas"]
+	path = Morada das Rosas
+	url = git@github.com:niccolascassel/moradadasrosas.git
+	branch = master
+[submodule "São Rafael"]
+	path = São Rafael
+	url = git@github.com:niccolascassel/saorafael.git
+	branch = master
